@@ -1,0 +1,12 @@
+{
+  "name": "ColoR pH — Indicador de col morada",
+  "short_name": "ColoR pH",
+  "description": "Estima el pH de una mezcla de col morada a partir de una fotografía.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f2f8",
+  "theme_color": "#4b145f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
